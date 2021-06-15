@@ -1,6 +1,6 @@
 public class Hello {
   public static void main(String[] argv) {
-    System.out.println("Hello new typo disabled");
+    System.out.println("Hello re-enabled");
   }
 }
 

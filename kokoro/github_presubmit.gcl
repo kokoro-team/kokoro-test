@@ -1,0 +1,3 @@
+config build = {
+  build_file="kokoro-test/kokoro/build.sh"
+}
